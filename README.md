@@ -38,8 +38,8 @@ evaluation, and visualization of results.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/angseesiang/CNN_using_Tensorflow.git
+    cd CNN_using_Tensorflow
     ```
 
 2.  Open the Jupyter Notebook:
@@ -77,9 +77,4 @@ pip install tensorflow matplotlib numpy
     practical experience in CNNs with TensorFlow.
 -   It demonstrates a step-by-step approach to deep learning workflows.
 
-------------------------------------------------------------------------
 
-## 📜 License
-
-This repository is shared for educational purposes. Please give credit
-if you use it in your own work.
